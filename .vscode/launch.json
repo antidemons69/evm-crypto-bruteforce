@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://github.com/cdw1p/evm-crypto-bruteforce",
+            "request": "launch",
+            "url": "https://github.com/cdw1p/evm-crypto-bruteforce"
+        }
+    ]
+}
